@@ -1,0 +1,56 @@
+@media (max-width: 1000px) {
+	header {
+		padding: 10px 20px;
+	}
+
+	header h1 {
+		font-size: 1.5em;
+	}
+
+	section {
+		padding: 100px 20px;
+	}
+
+	#main .container {
+		width: 80%;
+	}
+
+	footer {
+		padding: 10px 20px;
+	}
+
+	footer h1 {
+		font-size: 0.8em;
+	}
+}
+
+@media (max-width: 670px) {
+	header h1 {
+		font-size: 1.5em;
+	}
+
+	header .navigation {
+		display: none;
+	}
+
+	header .menuToggle {
+		display: block;
+		color: #fff;
+	}
+
+	#main {
+		padding: 0 20px;
+	}
+
+	.right-column {
+		display: none;
+	}
+
+	.footer-container h1 {
+		font-size: 1em;
+	}
+
+	.social-med a {
+		font-size: 1em;
+	}
+}
