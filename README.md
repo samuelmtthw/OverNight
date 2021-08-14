@@ -1,6 +1,6 @@
 # OverNight
 
-[OverNight](https://www.samuelmtthw.github.io/overnight) is a travel-oriented website where you can explore Indonesia and look for hotels on some of Indonesia's most beautiful places.
+[OverNight](https://samuelmtthw.github.io/overnight/) is a travel-oriented website where you can explore Indonesia and look for hotels on some of Indonesia's most beautiful places.
 
 This website is created to fulfill the team assignment from Progate Indonesia.
 
