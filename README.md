@@ -1,11 +1,13 @@
 # OverNight
-OverNight is a travel-oriented website where you can explore Indonesia and the hotels inside it.
-This website  is created to fulfil teamwork assignment from Progate Indonesia. 
+
+[OverNight](https://www.samuelmtthw.github.io/overnight) is a travel-oriented website where you can explore Indonesia and the hotels inside it.
+This website is created to fulfil teamwork assignment from Progate Indonesia.
 
 \
 **Developers**
-* Ronie Febriansyah
-* Susilawati Sitohang
-* Ziyad Yusuf Khusaini
-* Syafira Tiara Zani
-* Samuel Matthew
+
+-   Ronie Febriansyah
+-   Susilawati Sitohang
+-   Ziyad Yusuf Khusaini
+-   Syafira Tiara Zani
+-   Samuel Matthew
